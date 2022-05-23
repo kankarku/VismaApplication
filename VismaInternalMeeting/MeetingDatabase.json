@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 0,
+    "Name": "Susitikimas",
+    "ResponsiblePerson": 1,
+    "Description": "Pirmasis susitikimas",
+    "Category": 0,
+    "Type": 0,
+    "StartDate": "2014-01-01T00:00:00",
+    "EndDate": "2014-02-01T00:00:00",
+    "Persons": [
+      {
+        "Id": 1,
+        "Name": "Petras"
+      },
+      {
+        "Id": 124,
+        "Name": "Jonas"
+      },
+      {
+        "Id": 55,
+        "Name": "Kajus"
+      },
+      {
+        "Id": 5,
+        "Name": "Vardas"
+      }
+    ]
+  },
+  {
+    "Id": 999,
+    "Name": "testas",
+    "ResponsiblePerson": 2,
+    "Description": "testas",
+    "Category": 1,
+    "Type": 0,
+    "StartDate": "2020-01-01T00:00:00",
+    "EndDate": "2020-01-02T00:00:00",
+    "Persons": [
+      {
+        "Id": 2,
+        "Name": "Kajus"
+      },
+      {
+        "Id": 55,
+        "Name": "Kajus"
+      },
+      {
+        "Id": 5,
+        "Name": "Vardas"
+      }
+    ]
+  },
+  {
+    "Id": 998,
+    "Name": "Kitas Testas",
+    "ResponsiblePerson": 2,
+    "Description": "testas",
+    "Category": 1,
+    "Type": 0,
+    "StartDate": "2020-01-01T00:00:00",
+    "EndDate": "2020-01-02T00:00:00",
+    "Persons": [
+      {
+        "Id": 2,
+        "Name": "Kajus"
+      },
+      {
+        "Id": 5,
+        "Name": "Vardas"
+      },
+      {
+        "Id": 55,
+        "Name": "Kajus"
+      }
+    ]
+  }
+]

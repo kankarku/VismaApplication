@@ -1,0 +1,32 @@
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.exe
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.deps.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.runtimeconfig.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.pdb
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\refint\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.pdb
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\obj\Debug\net6.0\ref\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeeting\bin\Debug\net6.0\MeetingDatabase.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.exe
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\MeetingDatabase.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.deps.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.runtimeconfig.json
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\bin\Debug\net6.0\VismaInternalMeeting.pdb
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\refint\VismaInternalMeeting.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.pdb
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\VismaInternalMeeting.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Visma\VismaInternalMeeting\obj\Debug\net6.0\ref\VismaInternalMeeting.dll

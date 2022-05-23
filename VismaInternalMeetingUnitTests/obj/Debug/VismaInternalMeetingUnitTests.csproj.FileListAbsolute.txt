@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\VismaInternalMeetingUnitTests.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\VismaInternalMeetingUnitTests.pdb
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\obj\Debug\VismaInternalMeetingUnitTests.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\obj\Debug\VismaInternalMeetingUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\obj\Debug\VismaInternalMeetingUnitTests.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\obj\Debug\VismaInternalMeetingUnitTests.dll
+C:\Users\ADMIN\Desktop\UNIVERSITETAS\Loginiai uzdavineliai\VismaInternalMeetingUnitTests\obj\Debug\VismaInternalMeetingUnitTests.pdb
