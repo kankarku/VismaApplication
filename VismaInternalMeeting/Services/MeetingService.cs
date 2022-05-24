@@ -108,7 +108,7 @@ namespace VismaInternalMeeting.Services
                         meetings = meetings.AsQueryable().Where(x => x.StartDate >= DateTime.Parse(splitDates[0]) && x.EndDate <= DateTime.Parse(splitDates[1]));
                         break;
                     default:
-                        Console.WriteLine("This property does not exist");
+                        throw new Exception("This property does not exist");
                         break;
                 }
             }
@@ -136,6 +136,7 @@ namespace VismaInternalMeeting.Services
             if (meeting.ResponsiblePerson == personId)
             {
                 throw new Exception("This is the responsible person of this meeting and cannot be removed as such");
+                return false;
             }
 
             _meetingRepository.RemovePersonFromMeetingDB(id, personId);

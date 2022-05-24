@@ -1,0 +1,1 @@
+[{"Id":400,"Name":"TestMeeting","ResponsiblePerson":789,"Description":"TestDescription","Category":2,"Type":1,"StartDate":"0001-01-01T00:00:00","EndDate":"9999-12-31T23:59:59.9999999","Persons":[{"Id":1000,"Name":"Tester"}]}]
